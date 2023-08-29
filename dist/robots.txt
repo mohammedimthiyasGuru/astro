@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hellotham.github.io/hello-astro/sitemap-index.xml
